@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-facade-xml type="demo">
+    <tutorial.PExample P_ExampleId="1" P_ExampleName="Name_1" P_ExampleDate="12/04/2022" />
+    <tutorial.PExample P_ExampleId="2" P_ExampleName="Name_2" P_ExampleDate="13/04/2022" />
+<!--    <tutorial.PExample P_ExampleId="TestTwo" P_ExampleName="Name_2" P_ExampleDate="14/04/2022" />-->
+</entity-facade-xml>
+
+        <!--<?xml version="1.0" encoding="UTF-8"?>
+<entity-facade-xml type="demo">
+<tutorial.Tutorial tutorialId="TestOne" description="Test one description." name="Prachi" date="2024-09-12" price="45.00" quantity="1"/>
+<tutorial.Tutorial tutorialId="TestTwo" description="Test two description." name="Prachi" date="2024-09-12" price="45.00" quantity="1"/>
+</entity-facade-xml>-->
+
+
+
+
+        <!--<entity entity-name="PExample" package="tutorial">-->
+        <!--    <field name="P_ExampleId" type="id" is-pk="true"/>-->
+        <!--    <field name="P_ExampleName" type="text-medium"/>-->
+        <!--    <field name="P_ExampleDate" type="date"/>-->
